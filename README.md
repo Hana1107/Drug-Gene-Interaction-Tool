@@ -1,6 +1,4 @@
-**Github Repo**: https://github.com/thanhdathuynh/DGIT.git
-
-# DGIdb Gene-Drug Interaction Tool
+# ⚕️DGIdb Gene-Drug Interaction Tool
 
 A comprehensive Flask web application that enables users to search for drug-gene interactions using the [DGIdb GraphQL API](https://dgidb.org/api/graphql), with integrated AI assistance and database caching capabilities.
 
